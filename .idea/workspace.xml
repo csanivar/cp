@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e77258f-57cd-478c-8777-b06e2051c3a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/abc313/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/abc313/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/abc314/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/abc314/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/abc314/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/abc319/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round895/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round898/H.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,30 +38,37 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Tn4XVqJmbkw68aQ0Dyd7c2j2VB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.B">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.csanivar.atcoder.abc313.A" />
+}</component>
+  <component name="RunManager" selected="Application.E">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.csanivar.codeforces.round898.C" />
       <module name="cp.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.csanivar.atcoder.abc313.*" />
+          <option name="PATTERN" value="org.csanivar.codeforces.round898.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.csanivar.atcoder.abc313.B" />
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.csanivar.codeforces.round898.D" />
       <module name="cp.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.csanivar.atcoder.abc313.*" />
+          <option name="PATTERN" value="org.csanivar.codeforces.round898.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +89,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.csanivar.atcoder.Main" />
+    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.csanivar.codeforces.round898.E" />
       <module name="cp.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.csanivar.atcoder.*" />
+          <option name="PATTERN" value="org.csanivar.codeforces.round898.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.csanivar.codeforces.round898.F" />
+      <module name="cp.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.csanivar.codeforces.round898.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.csanivar.codeforces.round898.G" />
+      <module name="cp.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.csanivar.codeforces.round898.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,9 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.G" />
+        <item itemvalue="Application.F" />
+        <item itemvalue="Application.E" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="Application.C" />
       </list>
     </recent_temporary>
   </component>
@@ -101,8 +146,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691665551266</updated>
-      <workItem from="1691665553061" duration="3187000" />
+      <workItem from="1691665553061" duration="11266000" />
+      <workItem from="1694151372237" duration="5470000" />
+      <workItem from="1695303284007" duration="11955000" />
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csanivar/codeforces/round895/A.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csanivar/atcoder/abc319/B.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
